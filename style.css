@@ -1,0 +1,26 @@
+* {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      list-style: none;
+  }
+
+.border {
+    background: #cccccc;
+    height: 300px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.col-12 {
+    background: #6d747e;
+    height: 100px;
+
+}
+
+.col-4 {
+    border: 1px solid grey;
+
+}
